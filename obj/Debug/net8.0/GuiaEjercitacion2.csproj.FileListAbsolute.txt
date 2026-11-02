@@ -1,0 +1,28 @@
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\bin\Debug\net8.0\GuiaEjercitacion2.exe
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\bin\Debug\net8.0\GuiaEjercitacion2.deps.json
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\bin\Debug\net8.0\GuiaEjercitacion2.runtimeconfig.json
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\bin\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\bin\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\refint\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\patrones de diseño\Guia 2 - Preparacion\GuiaEjercitacion2_PRACTICA\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.exe
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.deps.json
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.runtimeconfig.json
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\refint\GuiaEjercitacion2.dll
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.pdb
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Facultad\2do AÑO\Programacion\Soldo.GuiaEjercitacion2\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll

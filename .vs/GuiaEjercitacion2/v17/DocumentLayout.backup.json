@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\pantallalugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\pantallalugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\iplayaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\iplayaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\formato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\formato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\cajaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\cajaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\bitacoraobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\bitacoraobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\ejerciciof\\alertaocupacionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\alertaocupacionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|c:\\users\\administrador\\desktop\\facultad\\2do a\u00F1o\\programacion\\soldo.guiaejercitacion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122B0A9-F043-5B3D-22BC-C3A15545A817}|GuiaEjercitacion2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarifaNocturna.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaNocturna.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\TarifaNocturna.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaNocturna.cs",
+              "RelativeToolTip": "EjercicioF\\TarifaNocturna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:11:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarifaHora.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaHora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\TarifaHora.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaHora.cs",
+              "RelativeToolTip": "EjercicioF\\TarifaHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:11:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarifaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaFactory.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\TarifaFactory.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaFactory.cs",
+              "RelativeToolTip": "EjercicioF\\TarifaFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:09:33.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarifaEstadia.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaEstadia.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\TarifaEstadia.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\TarifaEstadia.cs",
+              "RelativeToolTip": "EjercicioF\\TarifaEstadia.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:08:28.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Playa.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Playa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Playa.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Playa.cs",
+              "RelativeToolTip": "EjercicioF\\Playa.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:02:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PantallaLugares.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\PantallaLugares.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\PantallaLugares.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\PantallaLugares.cs",
+              "RelativeToolTip": "EjercicioF\\PantallaLugares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:02:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITarifa.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\ITarifa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\ITarifa.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\ITarifa.cs",
+              "RelativeToolTip": "EjercicioF\\ITarifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:02:40.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlayaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\IPlayaObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\IPlayaObserver.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\IPlayaObserver.cs",
+              "RelativeToolTip": "EjercicioF\\IPlayaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:02:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Formato.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Formato.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Formato.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Formato.cs",
+              "RelativeToolTip": "EjercicioF\\Formato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:01:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventoPlaya.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\EventoPlaya.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\EventoPlaya.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\EventoPlaya.cs",
+              "RelativeToolTip": "EjercicioF\\EventoPlaya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:00:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CajaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\CajaObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\CajaObserver.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\CajaObserver.cs",
+              "RelativeToolTip": "EjercicioF\\CajaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:55:29.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BitacoraObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\BitacoraObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\BitacoraObserver.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\BitacoraObserver.cs",
+              "RelativeToolTip": "EjercicioF\\BitacoraObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:55:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlertaOcupacionObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\AlertaOcupacionObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\AlertaOcupacionObserver.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\AlertaOcupacionObserver.cs",
+              "RelativeToolTip": "EjercicioF\\AlertaOcupacionObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:53:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Program.cs",
+              "RelativeToolTip": "EjercicioF\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:56:57.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:53:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Bitacora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Facultad\\2do A\u00D1O\\Programacion\\Soldo.GuiaEjercitacion2\\EjercicioF\\Bitacora.cs",
+              "RelativeToolTip": "EjercicioF\\Bitacora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T23:01:50.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
